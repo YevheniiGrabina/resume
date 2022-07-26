@@ -131,8 +131,10 @@ body {
     width: 370px;
     padding: 40px 0;
 }
-.sidebar-containers {
-    margin: 50px 0 0 40px;
+
+.sidebar-section img {
+    max-width: 370px;
+
 }
 .sidebar-containers > h3 {
     font-style: normal;
